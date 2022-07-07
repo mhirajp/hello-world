@@ -3,3 +3,6 @@ hoge
 
 # foo
 bar
+
+# baz
+baz
